@@ -1,0 +1,22 @@
+.Header{
+    height:40px;
+    background-color:rgb(2, 2, 48) ;
+    color:white;
+    text-align: center;
+    padding-top:20px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sunny{
+    background-color: rgb(252, 252, 9);
+}
+
+.cloudy{
+    background-color:blue;
+}
+
+.clear{
+    
+}
